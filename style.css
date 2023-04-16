@@ -346,6 +346,10 @@ footer input[type="image"] {
 }
 
 .cover8 {
+  background-image: url('img/mrx.jpg');
+}
+
+.cover9 {
   background-image: url('img/incenso3.jpg');
 }
 
