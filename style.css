@@ -300,6 +300,10 @@ footer input[type="image"] {
 
 }
 
+.open-book header * {
+    color: grey;
+}
+
 .book-cover {
   position: absolute;
   z-index:1;
