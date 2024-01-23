@@ -395,7 +395,6 @@ footer input[type="image"] {
 
 
 
-
 .cover0 {
   background-image: url('img/senzamusica.jpg');
 }
@@ -407,6 +406,12 @@ footer input[type="image"] {
 .cover000 {
   background-image: url('img/carillon.jpg');
 }
+
+
+.coverabd {
+  background-image: url('img/deer.png');
+}
+
 
 .book .book-cover {
   background-size: 100% 100%;
