@@ -382,7 +382,7 @@ footer input[type="image"] {
 }
 
 .cover16 {
-  background-image: url('img/chisenzapeccato.jpg');
+  background-image: url('img/scegli.jpg');
 }
 
 .cover17 {
@@ -391,6 +391,14 @@ footer input[type="image"] {
 
 .cover18 {
   background-image: url('img/fiabafaro.jpg');
+}
+
+.cover19 {
+  background-image: url('img/centrolago.jpg');
+}
+
+.cover20 {
+  background-image: url('img/punto.png');
 }
 
 
