@@ -6,3 +6,10 @@ Uomini di fuoco = Aileron [Canva]
 Scegli = RoxboroughCF [Canva]
 Frontiera = Flatory Serif Sem... [Canva]
 Fiaba faro = Cinzel decorative [Canva]
+
+segoe ui variable light
+Footlight MT Light, Light
+baskerville old face
+FELIX TITLING
+
+CHARLES CHARLES CHARLES = Franklin Gothic Demi Italic #d9a576 118pt
