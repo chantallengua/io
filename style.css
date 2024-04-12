@@ -569,8 +569,13 @@ footer input[type="image"] {
 }
 
 .cover22 {
+  background-image: url('img/sfera.jpg');
+}
+
+.cover23 {
   background-image: url('img/el_perlejo.jpg');
 }
+
 
 
 
