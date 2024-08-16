@@ -29,12 +29,13 @@ article {
 	text-align: justify !important;
 }
 
-.open-book a {
-	color: RGB(0, 96, 197);
-}
 
 .img-thumbnail {
 max-width: 14em;
+}
+
+h1 {
+	margin-bottom: 1em;
 }
 
 /*** OPEN BOOK ***/
@@ -60,7 +61,6 @@ max-width: 14em;
 .open-book footer * {
     font: 400 1em/1.25 'Playfair Display', sans-serif;
     letter-spacing: 0.125em;
-    margin: 0;
 }
 
 .open-book header * {
@@ -134,9 +134,16 @@ max-width: 14em;
 }
 
 .btn-pdf {
-	margin-top: 2em;
+	margin-top: 2.5em;
+	margin-right: 0.5em;
+    margin-left: 0.5em;
 	padding: 0.275rem 0.55rem !important;
 	color: black;
+	font-size: 10pt;
+}
+
+.p-copyright a {
+color: RGB(0, 96, 197);
 }
 
 .btn-pdf:hover {
