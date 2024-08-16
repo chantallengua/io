@@ -35,7 +35,7 @@ max-width: 14em;
 }
 
 h1 {
-	margin-bottom: 1em;
+	
 }
 
 /*** OPEN BOOK ***/
@@ -57,10 +57,11 @@ h1 {
    /* padding-bottom: 1em;*/
 }
 
-.open-book header *,
+.open-book header,
 .open-book footer * {
     font: 400 1em/1.25 'Playfair Display', sans-serif;
     letter-spacing: 0.125em;
+    margin: 0;
 }
 
 .open-book header * {
@@ -69,13 +70,14 @@ h1 {
 }
 
 .open-book footer {
-    padding-top: 1em;
+    padding: 1em;
+    padding-bottom: 0em
 }
 
 .open-book footer #page-numbers {
     display: none;
     list-style: none;
-    padding: 0;
+    padding-left: 1em;
     text-align: left;
 }
 
