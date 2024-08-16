@@ -118,6 +118,7 @@ form {
 }
 
 
+
 .pag {
   position:relative;
   color: #fff;
@@ -128,8 +129,11 @@ form {
   display: inline-block;
 }
 
+
+
 footer > div {
 	text-align: center;
+	margin-top: 2em !important;
 }
 
 footer > div  > span {
@@ -148,6 +152,7 @@ footer {
 footer input[type="image"] {
     vertical-align: text-bottom;
 }
+
 
 #container2 {
 	padding-top:0.5em !important;
@@ -286,6 +291,7 @@ footer input[type="image"] {
 footer > div {
 	text-align: right;
 	margin-right: 1em;
+	margin-top: 2em !important;
 }
 
 footer > div  > span {
