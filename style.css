@@ -586,7 +586,9 @@ footer input[type="image"] {
   background-image: url('img/sempre_vicino.jpg');
 }
 
-
+.cover25 {
+  background-image: url('img/altromondo.jpg');
+}
 
 
 
