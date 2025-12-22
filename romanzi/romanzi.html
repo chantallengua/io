@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="en" class="h-100">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Chantal Lengua">    
+    <title>Chantal Lengua</title>
+	<link rel="icon" href="../img/ico.png">
+	
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/cover/">
+	<link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">	
+	<link href="../cover.css" rel="stylesheet">
+	<link rel="stylesheet" href="../style_romanzi.css">
+    <link rel="stylesheet" href="book.css">
+    
+
+    <style>
+	  
+	  .container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 0em;
+  padding-bottom: 0em;
+    margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
+    </style>
+
+    
+    <!-- Custom styles for this template -->
+    <link href="../cover.css" rel="stylesheet">
+  </head>
+  <body class="d-flex text-center text-white bg-dark">
+    
+<div class="d-flex w-100 h-100 p-3 mx-auto flex-column">
+  <header class="mb-auto px-5">
+    <div>
+      <!--<h3 class="float-md-start mb-0">Cover</h3>-->
+      <nav class="nav nav-masthead">
+        <a class="nav-link" href="../index.html">Racconti</a>
+        <a class="nav-link active" aria-current="page" href="#">Romanzi</a>
+		 <!--<a class="nav-link" href="../suggestions.html">Suggestions</a>-->
+        <a class="nav-link float-end" href="../newsletter.html">Newsletter</a>
+		<a class="nav-link float-end" href="../about.html">About</a>
+      </nav>
+    </div>
+  </header>
+
+  <!--<main class="px-3">    
+  </main>-->
+  
+ <div class="container-fluid cont" style="padding-top:2em">
+ <div class="book">
+<a id="toggle">
+  <div class="title">
+    <p>Senza Musica</p>
+  </div>
+  <div class="alert" id="alert">
+    <p class="shadow">Ti interessa leggere <i>Senza Musica</i>? Scrivi a lenguachantal@gmail.com, sarò lieta di inviartelo gratuitamente!</p>
+	</div>
+	<div class="book-cover cover0" id="pic">
+    <div class="effect"></div>
+    <div class="light"></div>
+  </div>
+  <div class="book-inside">
+  </div>
+ <p class="pag">153 pag.</p>
+</div>
+
+
+<!--
+ <div class="book">
+<a id="toggle2">
+  <div class="title"><p>Temporal Paradox</p></div>
+  <div class="alert" id="alert2">
+    <p class="shadow">Ti interessa leggere <i>Temporal Paradox</i>? Scrivi a lenguachantal@gmail.com, sarò lieta di inviartelo gratuitamente!</p>
+  </div>
+  <div class="book-cover cover00" id="pic2">
+    <div class="effect"></div>
+    <div class="light"></div>
+  </div>
+  <div class="book-inside">
+  </div>
+ <p class="pag">439 pag.</p>
+ </a>
+</div>
+
+
+
+
+
+<div class="book">
+<a id="toggle3">
+  <div class="title"><p>Il Carillon</p></div>
+  <div class="alert" id="alert3">
+    <p class="shadow">Ti interessa leggere <i>Il Carillon</i>? Scrivi a lenguachantal@gmail.com, sarò lieta di inviartelo gratuitamente!</p>
+  </div>
+  <div class="book-cover cover000" id="pic3">
+    <div class="effect"></div>
+    <div class="light"></div>
+  </div>
+  <div class="book-inside">
+  </div>
+ <p class="pag">373 pag.</p>
+ </a>
+</div>-->
+
+</div>
+
+
+
+  <footer class="mt-auto footer-romanzi text-white-50 text-right">
+    <div class="text-right">
+		<span>Vuoi offrirmi un caffè?</span>
+		<form action="https://www.paypal.com/donate" method="post" target="_top">
+			<input type="hidden" name="hosted_button_id" value="2QZCRYKJ8JZU4" />
+			<input type="image" src="../img/donazione.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Fai una donazione con il pulsante PayPal" />
+			<img alt="" border="0" src="https://www.paypal.com/it_IT/i/scr/pixel.gif" width="1" height="1" />
+		</form>
+	</div>
+  </footer>
+
+<script>
+const targetDiv = document.getElementById("alert");
+const targetPic = document.getElementById("pic");
+const btn = document.getElementById("toggle");
+btn.onclick = function () {
+  if (targetDiv.style.display !== "inline-block") {
+    targetDiv.style.display = "inline-block";
+	targetPic.style.filter = "blur(1px)";
+	targetDiv.style.transformOrigin = "0 50% !important";
+	targetDiv.style.transition = "all 1s ease-in-out";
+  } else {
+    targetDiv.style.display = "none";
+	targetPic.style.filter = "none";
+  }
+};
+</script>
+<script>
+const targetDiv2 = document.getElementById("alert2");
+const targetPic2 = document.getElementById("pic2");
+const btn2 = document.getElementById("toggle2");
+btn2.onclick = function () {
+  if (targetDiv2.style.display !== "inline-block") {
+    targetDiv2.style.display = "inline-block";
+	targetPic2.style.filter = "blur(1px)";
+	targetDiv2.style.transformOrigin = "0 50% !important";
+	targetDiv2.style.transition = "all 1s ease-in-out";
+  } else {
+    targetDiv2.style.display = "none";
+	targetPic2.style.filter = "none";
+  }
+};
+</script>
+<script>
+const targetDiv3 = document.getElementById("alert3");
+const targetPic3 = document.getElementById("pic3");
+const btn3 = document.getElementById("toggle3");
+btn3.onclick = function () {
+  if (targetDiv3.style.display !== "inline-block") {
+    targetDiv3.style.display = "inline-block";
+	targetPic3.style.filter = "blur(1px)";
+	targetDiv3.style.transformOrigin = "0 50% !important";
+	targetDiv3.style.transition = "all 1s ease-in-out";
+  } else {
+    targetDiv3.style.display = "none";
+	targetPic3.style.filter = "none";
+  }
+};
+</script>
+  </body>
+</html>
