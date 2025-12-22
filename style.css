@@ -688,3 +688,132 @@ footer input[type="image"] {
 
 
 
+/*	 -----	Newsletter 	-----	 */
+
+/* =========================
+   INTRO NEWSLETTER (FINAL)
+   ========================= */
+
+#introduzione {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 2.5em;
+  margin-bottom: 3.5em;
+}
+
+.intro-box {
+  background-color: #ffffff;
+  border-radius: 6px;
+  max-width: 880px;
+  width: 90%;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.12);
+  overflow: hidden;
+}
+
+/* Banner ridotto */
+
+.intro-banner {
+  max-height: 180px;
+  overflow: hidden;
+}
+
+.intro-banner img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  display: block;
+}
+
+.intro-content {
+  padding: 2em 2.6em;
+  color: #222;
+}
+
+/* Titolo e sottotitolo centrati */
+
+.intro-content h1 {
+  margin: 0;
+  font-size: 1.6rem;
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+.intro-content h2 {
+  margin-top: 0.4em;
+  font-size: 0.95rem;
+  font-weight: normal;
+  color: #666;
+  text-align: center;
+  	padding-bottom: 1rem !important;
+}
+
+/* Testo */
+
+.intro-content p {
+  line-height: 1.25;
+  font-size: 0.9rem;
+  margin-top: 0 !important;
+  margin-bottom: 0.45rem !important;
+}
+
+.email-note {
+  font-size: 0.85rem;
+  color: #666;
+  margin-top: 1.2em;
+}
+
+/* Pulsante centrato */
+
+.intro-button {
+  display: block;
+  width: fit-content;
+  margin: 1.8em auto 0 auto;
+  padding: 0.75em 1.8em;
+  background-color: #111;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 24px;
+  font-size: 0.85rem;
+  letter-spacing: 1px;
+  transition: background-color 0.3s ease;
+}
+
+.intro-button:hover {
+  background-color: #4d5053;
+  color: #f4f1e3;
+}
+
+/* =========================
+   MOBILE
+   ========================= */
+
+@media only screen and (max-width: 780px) {
+
+  .intro-banner {
+    max-height: 120px;
+  }
+
+  .intro-banner img {
+    height: 120px;
+  }
+
+  .intro-content {
+    padding: 1.6em 1.4em;
+  }
+
+  .intro-content h1 {
+    font-size: 1.4rem;
+  }
+
+  .intro-content h2 {
+    font-size: 0.9rem;
+	padding-bottom: 1.4rem !important;
+  }
+
+  .intro-content p {
+    font-size: 0.85rem;
+  }
+}
+
+
