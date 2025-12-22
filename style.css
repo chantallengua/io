@@ -690,9 +690,6 @@ footer input[type="image"] {
 
 /*	 -----	Newsletter 	-----	 */
 
-/* =========================
-   INTRO NEWSLETTER (FINAL)
-   ========================= */
 
 #introduzione {
   width: 100%;
@@ -711,7 +708,7 @@ footer input[type="image"] {
   overflow: hidden;
 }
 
-/* Banner ridotto */
+/* Banner */
 
 .intro-banner {
   max-height: 180px;
@@ -730,7 +727,7 @@ footer input[type="image"] {
   color: #222;
 }
 
-/* Titolo e sottotitolo centrati */
+/* Titolo e sottotitolo */
 
 .intro-content h1 {
   margin: 0;
