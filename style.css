@@ -763,14 +763,12 @@ footer input[type="image"] {
   margin-top: 1.2em;
 }
 
-/* Pulsante centrato */
-
 .intro-button {
   display: block;
   width: fit-content;
   margin: 1.8em auto 0 auto;
   padding: 0.75em 1.8em;
-  background-color: #111;
+  background-color: #212529;
   color: #fff;
   text-decoration: none;
   border-radius: 24px;
