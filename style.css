@@ -815,29 +815,37 @@ footer input[type="image"] {
 
 
 .covern1 {
-  background-image: url('img/newsl/n1_resized.jpg');
+  background-image: url('img/newsl/1.jpg');
 }
 
 .covern2 {
-  background-image: url('img/newsl/n2_resized.jpg');
+  background-image: url('img/newsl/2.jpg');
 }
 
 .covern3 {
-  background-image: url('img/newsl/n3_resized.jpg');
+  background-image: url('img/newsl/3.jpg');
 }
 
 .covern4 {
-  background-image: url('img/newsl/n4_resized.jpg');
+  background-image: url('img/newsl/4.jpg');
 }
 
 .covern5 {
-  background-image: url('img/newsl/n5.jpg');
+  background-image: url('img/newsl/5.jpg');
 }
 
 .covern6 {
-  background-image: url('img/newsl/n6.jpg');
+  background-image: url('img/newsl/6.jpg');
 }
 
 .covern7 {
-  background-image: url('img/newsl/n7.jpg');
+  background-image: url('img/newsl/7.jpg');
+}
+
+.covern8 {
+  background-image: url('img/newsl/8.jpg');
+}
+
+.covern9 {
+  background-image: url('img/newsl/9.jpg');
 }
