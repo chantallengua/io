@@ -1,122 +1,24 @@
-<!DOCTYPE html>
-
-<html class="h-100" lang="en">
-<head>
-<meta charset="utf-8"/>
-<meta content="width=device-width, initial-scale=1" name="viewport"/>
-<meta content="" name="description"/>
-<meta content="Chantal Lengua" name="author"/>
-<title>Chantal Lengua</title>
-<link href="../img/ico.png" rel="icon"/>
-<link href="https://getbootstrap.com/docs/5.1/examples/cover/" rel="canonical"/>
-<link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet"/>
-<link href="../cover.css" rel="stylesheet"/>
-<link href="../style.css" rel="stylesheet"/>
-<link href="book.css" rel="stylesheet"/>
-<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css" rel="stylesheet"/>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-<style>
-	  
-	/* Highlight */
-	.open-book *::-moz-selection {
-		background: rgb(204, 201, 191, 0.4);
-	}
-
-	.open-book *::selection {
-		background: rgb(204, 201, 191, 0.4);
-	}
-	
-	
-	.capital-special:first-letter {
-    float: left;
-    font: 700 3em/0.65 'Playfair Display', sans-serif;
-    padding: 0.15em 0.05em 0 0;
-    text-transform: uppercase;}
-	
-	
-    </style>
-<script type="text/javascript">
-	 document.oncontextmenu = new Function("return false");
-	</script>
-<script type="text/javascript">
-	 $(document).ready(function() {
-	 $('body').bind('cut copy paste', function(event) {
-	 event.preventDefault();
-	 });
-	 });
-	 </script>
-</head>
-<body class="d-flex text-center text-white bg-dark">
-<div class="d-flex w-100 h-100 p-3 mx-auto flex-column">
-<header class="mb-auto px-5">
-<div>
-<!--<h3 class="float-md-start mb-0">Cover</h3>-->
-<nav class="nav nav-masthead">
-<a aria-current="page" class="nav-link active" href="../index.html">Racconti</a>
-<a class="nav-link" href="../romanzi/romanzi.html">Romanzi</a>
-<a class="nav-link float-end" href="../about.html">About</a>
-</nav>
-</div>
-</header>
-<!-- bookey bookey -->
-<div class="mt-4" id="wrapper">
-<div id="container">
-<section class="open-book">
-<header>
-<h1>Chantal Lengua</h1>
-<h6> </h6>
-</header>
-<article>
-<div class="chapter-title"><h2>Testa di sciacallo</h2>
-<a class="btn btn-outline-secondary btn-pdf" href="pdf/testa_di_sciacallo.pdf" target="_blank">
-<i class="bi bi-filetype-pdf"></i></a>
-</div>
-				<p></p>
-                <p style="text-align: right"><i> 
-				Egitto, età di Amenhotep III </i>
-				</p>
-				<p>&nbsp;</p>
-				
-				<p class="capital-special" style="text-indent: 0.3em">
-				Coccodrillo, leone, ippopotamo. </p>
-<p style="text-indent: 0.2em">Il bambino aveva imparato presto i nomi dei tre predatori in modo da tenerli sempre a mente. Ma un bambino non pensa a nulla mentre corre.</p>
+<p><i>Egitto, età di Amenhotep III</i><i></i></p>
+<p>&nbsp;</p>
+<p>Coccodrillo, leone, ippopotamo. </p>
+<p>Il bambino aveva imparato presto i nomi dei tre predatori in modo da tenerli sempre a mente. Ma un bambino non pensa a nulla mentre corre.</p>
 <p>Rapido, il guizzo roseo delle piante dei piedi solleva sabbia e polvere, e lui ride, ride perché sta correndo e non c'è nulla di cui essere più felici al mondo, con il canneto di papiri che si uniforma in un solo fascio verde e il Nilo che scintilla di polvere d'oro.</p>
 <p>Ma la felicità è un peso lieve. La sofferenza, grave.</p>
 <p>Oltre l'ansa del fiume, una delle tre bestie: coccodrillo, leone, ippopotamo. Il bambino se ne accorge quando è troppo tardi, e nello sterzare per tornare indietro, cade battendo la testa. Il sole si fa freddo, il Nilo non scintilla più.</p>
-<p> </p>
+<p>&nbsp;</p>
 <p>Scintilla qualcos'altro, quando riapre gli occhi. Anzi, scintilla tutto: una grande stanza dorata e ricca di decorazioni, intarsi e dipinti raffiguranti le loro divinità. È felice, perché crede di essere stato salvato dal faraone e di trovarsi nel suo palazzo. Si alza in piedi e si sente fresco e leggero, come se non avesse mai corso, come se non avesse mai battuto la testa.</p>
 <p>Poi li vede. Sono sempre stati lì.</p>
 <p>Lui, Anubis, il dio dell'oltretomba, dal duro muso di sciacallo che scema diventando carne, corpo umano vestito di lino e impreziosito d'oro, e Ammit, nell'altro angolo, fiera commistione tra le tre bestie assassine da cui avrebbe dovuto guardarsi: un lungo e dentato muso da coccodrillo suturato a un corpo leonino che termina in massicce zampe da ippopotamo. Tra di loro si erge una bilancia d'oro e avorio.</p>
 <p>Il bambino vuole scoppiare a piangere ma si accorge che non riesce a farlo.</p>
-<p>«Telamun» tuona Anubis, chiamandolo. Batte il suo bastone dorato a terra facendo rimbombare la sala senza porte né finestre. «La tua vita sulla Terra è cessata, sei qui per essere giudicato.»</p>
+<p>«<i>Telamun</i>» tuona Anubis, chiamandolo. Batte il suo bastone dorato a terra facendo rimbombare la sala senza porte né finestre. «La tua vita sulla Terra è cessata, sei qui per essere giudicato.»</p>
 <p>Il bambino si piega sulle ginocchia, facendosi piccolo. Non potrà piangere, ma può sempre provare a scomparire. Forse, se chiude gli occhi e stringe i pugni con abbastanza forza, si risveglierà tra le braccia della mamma.</p>
 <p>Anubis guarda Ammit, che gli fa un cenno con il grosso muso da rettile in direzione del bambino. Il dio sospira, appoggia il bastone alla parete e piega un grosso ginocchio a terra, chinandosi alla sua altezza.</p>
-<p>«Ehi, ascoltami» gli dice. Si volta verso Ammit, lui quelle cose non le sa fare, non sa consolare i bambini. Lui è il dio dell'aldilà, il traghettatore di anime, il custode dei morti. Ma l'altra lo saetta con un'occhiata irremovibile e sposta la zampa leonina come a dire Vai, muoviti.</p>
+<p>«Ehi, ascoltami» gli dice. Si volta verso Ammit, lui quelle cose non le sa fare, non sa consolare i bambini. Lui è il dio dell'aldilà, il traghettatore di anime, il custode dei morti. Ma l'altra lo saetta con un'occhiata irremovibile e sposta la zampa leonina come a dire <i>Vai, muoviti</i>.</p>
 <p>«Non sei solo» ricomincia allora. «Negli eterni Campi dei Giunchi ci sono i tuoi nonni, e i nonni dei tuoi nonni. Ti stanno aspettando.»</p>
 <p>«E la mia mamma?»</p>
 <p>«La tua mamma ti raggiungerà, ma prima andrai tu, così le preparerai un bel…» si gira verso Ammit, che mima qualcosa intorno al collo. «…una bella collana di fiori.»</p>
 <p>Il bambino solleva lo sguardo e d'un tratto quel viso da sciacallo nero, con lunghi canini e labbra invisibili, non gli sembra più così spaventoso. Ancora seduto, alza le braccia per farsi raccogliere. Anubis arretra impercettibilmente, ma già sente lo sguardo della compagna farsi infuocato contro la sua schiena, così lo solleva tra le grosse braccia umane e lo porta davanti alla bilancia dorata.</p>
 <p>«Su questo piatto metteremo il tuo cuore» dice, indicando un piatto. «Lì, invece, è posata la piuma di Maat, simbolo di equilibrio, verità e giustizia. Se il tuo cuore peserà meno della piuma, potrai raggiungere i tuoi avi nei Campi dei Giunchi e vivere per sempre nella luce e nella felicità.»</p>
-</article>
-<footer>
-<ol id="page-numbers">
-<li>1</li>
-<li>2</li>
-</ol>
-</footer>
-</section>
-</div>
-</div>
-<!-- end of bookey -->
-<!-- bookey bookey -->
-<div class="mt-4" id="wrapper">
-<div id="container">
-<section class="open-book">
-<header>
-<h1> </h1>
-<h6> </h6>
-</header>
-<article>
 <p>«E se pesasse di più?»</p>
 <p>«Non succederà» dice Anubis. I bambini non vanno mai nel luogo della dannazione.</p>
 <p>Fa per riportarlo a terra, ma le manine si stringono ai suoi bicipiti, così sospira e lo tiene in braccio. Con un fluido gesto della mano, ne estrae il cuore e lo dirige verso il piatto della bilancia, dove si deposita fluttuando, rosso e pulsante.</p>
@@ -128,6 +30,9 @@
 <p>Gli uomini del villaggio avrebbero impiegato diversi giorni prima di trovare il corpicino al margine del fiume. Ma non ha il tempo di formulare una risposta.</p>
 <p>«Puoi andare a dirglielo tu, per favore?»</p>
 <p>«Non...»</p>
+<!-- DUE PAGINE CREATE -->
+
+
 <p>«Sì che puoi. Secondo me puoi.»</p>
 <p>Sì, può. È già sceso tra i mortali: suo fratello Horus lo sostituiva spesso nella pesatura dei cuori.</p>
 <p>«Va bene, andrò.»</p>
@@ -136,7 +41,7 @@
 <p>«Ironizza pure. Mi chiedo perché non li possa consolare tu, per una volta.»</p>
 <p>Lei ridacchia mostrando una collezione di denti affilati.</p>
 <p>«Chiama Horus» dice Anubis raccogliendo il bastone sacro. «Torno subito.»</p>
-<p> </p>
+<p>&nbsp;</p>
 <p>È da tanto, che non scende tra loro.</p>
 <p>Il disordine, i suoni, la puzza; la sporcizia, il caos, la bellezza.</p>
 <p>Anubis si alza in piedi e solleva il viso verso Ra, il dio sole, l’unico dio che non ha mai visto nella sua vera forma. Mentre lo osserva, i raggi gli si intrappolano nelle ciglia, descrivendo impalpabili circonferenze iridescenti che svaniscono non appena distoglie lo sguardo.</p>
@@ -155,29 +60,9 @@
 <p>«La giustizia non governa la vita, Heba. La vita è un ciclo, e ogni ciclo ha un inizio e una fine, inevitabile, anche se dolorosa. Ora la sua energia vitale è parte del tessuto stesso del mondo.»</p>
 <p>«Ma non lo posso più abbracciare!»</p>
 <p>«Non per questo non è più con te. Non si può dividere una vita da un’altra più di quanto si possa separare un soffio dal vento, un’onda dal fiume.» La guarda negli occhi color ambra, gonfi e venati di rosso. «La tua vita continuerà, Heba, fino a che non ci incontreremo ancora.»</p>
-<p> </p>
+<p>&nbsp;</p>
 <p>Torna nella sala della doppia verità, il suo sguardo inondato d’oro. Pensa che i bambini non dovrebbero morire.</p>
 <p>«Sei turbato, Anubis. Ricorda che a tutto c’è una ragione.»</p>
-</article>
-<footer>
-<ol id="page-numbers">
-<li>3</li>
-<li>4</li>
-</ol>
-</footer>
-</section>
-</div>
-</div>
-<!-- end of bookey -->
-<!-- bookey bookey -->
-<div class="mt-4" id="wrapper">
-<div id="container">
-<section class="open-book">
-<header>
-<h1> </h1>
-<h6> </h6>
-</header>
-<article>
 <p>«Tu non fai altro che stare lì a divorare cuori umani, Ammit.»</p>
 <p>«Anche a questo c’è una ragione.»</p>
 <p>«Sento un cedimento nella tua fede, fratello» si intromette Horus, il solito cipiglio arrogante.</p>
@@ -189,33 +74,15 @@
 <p>«Sei venuto a portarmi via qualcun altro?»</p>
 <p>«Sono venuto a portarti conforto.»</p>
 <p>Le racconta di suo figlio, di come stia correndo nei Campi dei Giunchi anche ora, anche domani, di come abbia abbracciato il padre, morto l’anno prima per la carestia, e stia aspettando la madre. E quando torna nella sala dorata a portare avanti il suo dovere, è più sereno, nel suo muso canide nero come la notte. Ma ben presto desidera scendere di nuovo, inebriarsi di quell’attenzione umana, guardare Heba negli occhi e sentire ammirazione e non solo timore.</p>
+<!-- DUE PAGINE CREATE -->
+
+
 <p>Quando si trovano, cominciano sempre parlando del figlio, continuando aggiornandosi sul raccolto e sul pescato, terminano discorrendo dell’aldilà, del mondo, della vita. E di vita tra loro ne scorre tanta, così tanta che una sera le prende i fianchi e la attira a sé, il seno morbido e le braccia piccole, e la spinge sul letto di paglia, schiudendole le gambe con scioltezza.</p>
 <p>Ora giudica le anime con sempre maggiore impazienza: mette i cuori sulla bilancia e poi scappa giù. Prende i giovani morti più belli, per incarnarsi, anche se poi deve camminare giorni prima di trovare il suo villaggio. E ogni volta c’è Heba, lì, ad aspettarlo, l’ultima con una mano sulla pancia. Aspetta un bambino.</p>
 <p>Non pensava fosse possibile. Questo porterà gioia nella sua sacra famiglia: proprio come aveva detto a lei quando aveva perduto il suo primogenito, è dalla morte che nasce la vita.</p>
 <p>Non c’è una volta, ora, che non le rechi un dono, quando si incarna: una statuetta, un animaletto di paglia, un vestito di lino. Quella volta ha costruito una culla di legno, giunchi e un interno foderato di piume di struzzo, ma quando raggiunge la casa, la trova riversa a terra, in un lago di sangue che sotto i raggi del crepuscolo sembra acqua di fonte. Il corpo è dilaniato da denti di rettile, ma i coccodrilli non si avventurano così tanto fuori dal fiume. No. Quella è opera di Ammit.</p>
 <p>Grida, il dio dell’aldilà, grida di rabbia e fa rabbrividire la terra, fuggire gli animali, scendere la notte. Si volta verso la sala dorata, materializzatasi secondo il suo volere. Lì, Horus è in piedi, Ammit al suo fianco. Davanti a loro, la pallida anima di Heba, vestita in un abito bianco che le si ingrossa all’altezza del ventre, inginocchiata sul pavimento lucido.</p>
 <p>«Che cosa avete fatto?» grida, battendo con forza il bastone cerimoniale. Quello è il suo regno, e la morte il suo dominio, nessuno può essergli re.</p>
-
-</article>
-<footer>
-<ol id="page-numbers">
-<li>5</li>
-<li>6</li>
-</ol>
-</footer>
-</section>
-</div>
-</div>
-<!-- end of bookey -->
-<!-- bookey bookey -->
-<div class="mt-4" id="wrapper">
-<div id="container">
-<section class="open-book">
-<header>
-<h1> </h1>
-<h6> </h6>
-</header>
-<article>
 <p>«Ti sei spinto troppo oltre, fratello» dice Horus, l’odiato becco di falco che si apre e chiude come forbici di bronzo. «Il sangue divino non si mescola a quello mortale.»</p>
 <p>Strappa il cuore di Heba dal suo corpo e lo poggia sulla bilancia: è più leggero della piuma. Ma richiama anche il cuore del non nato nel suo grembo: insieme, fanno pendere il piatto della bilancia dalla parte opposta, verso la dannazione.</p>
 <p>«No!» urla Anubis. «Sono due cuori! Stai ingannando il giudizio!»</p>
@@ -225,33 +92,15 @@
 <p>Anubis lo afferra e si tira in piedi, un ringhio ferino che gli solleva il labbro mettendo in evidenza i canini da sciacallo.</p>
 <p>Appare la prima anima: si guarda attorno tremante, aspetta di venire convocata da qualcuno che gli dica qualcosa come “Sei morto, devi essere giudicato”, ma quella frase non arriva. Ammit si gira verso Anubis, ancora fremente di rabbia, e lo vede estrarre un coltello dalla sua veste d’oro. Può il dio della morte morire? Il suicidio, uno dei peccati più gravi, non lo porterebbe certo nei Campi dei Giunchi, ma in quelli della dannazione.</p>
 <p>Anubis si taglia il collo, lì dove il canide diventa uomo, e un fiotto di sangue color dell’ambra esce rilucendo delle pareti decorate. Ma, in ultimo, mantiene un sorriso, il sorriso dell’orgoglio.</p>
-<p> </p>
+<p>&nbsp;</p>
 <p>È caldo, è fuoco e fiamme, è tormento ed è dannazione, ma la trova e la abbraccia. Heba piange stringendosi al suo corpo di dio, cercando con la punta delle dita quel muso canide che non aveva mai visto ma che ama già. Vorrebbe parlargli, ma il frastuono di quel luogo sovrasta tutto. Vorrebbe chiedergli perché si trova lì, lei che ha solo amato e vissuto, e se lui la può portare indietro, portare da suo figlio come le era stato promesso tempo addietro. Ma il muso di lui è triste, mentre la abbraccia, le sue spalle forti sono basse.</p>
 <p>Rimangono così, un tempo che pare eterno, con lui che la difende dai morsi dei serpenti e delle bestie che compaiono per straziarli e ghermirli. È questa, l’eternità?</p>
-<p> </p>
+<p>&nbsp;</p>
 <p>Improvvisamente, uno squarcio di luce, fulgido e accecante, strappa quel roboante tessuto di sangue e fuoco. E Anubis lo sente: il profumo dei Campi dei Giunchi, il profumo della pioggia chiara sulla sabbia, del papiro e del loto blu. Raccoglie Heba tra le braccia e corre per gettarsi nel varco: lo scatto secco nel vuoto di mascelle mostruose riecheggia nel tentativo di afferrarlo, e poi è solo silenzio. Solo luce.</p>
+<!-- DUE PAGINE CREATE -->
+
+
 <p>Un bambino corre verso di loro, un tempo orfano di madre, e si butta su Heba, con quell’innocenza che hanno solo i piccoli.</p>
 <p>Il dio, invece, si guarda il corpo, le braccia, e poi intorno: i campi di grano, le sorgenti azzurre, il cielo limpido. </p>
 <p>Non dovrebbe essere lì.</p>
 <p>Ma è allora che lo vede: Ra, dio degli dèi, lo osserva con il suo unico occhio dipinto che non gli aveva mai mostrato prima. E d’improvviso la sente, la comunione con il tutto, la sente, la giustizia, quella che sta dietro ogni morte. Quella di cui aveva giurato l'inesistenza e che ora gli permetteva di esistere, ancora.</p>
-<p>Ma è allora che lo vede: Ra, dio degli dèi, lo osserva con il suo unico occhio dipinto che non gli aveva mai mostrato prima. E d’improvviso la sente, la comunione con il tutto, la sente, la giustizia, quella che sta dietro ogni morte.
-
-				</p>
-<p> </p><p> </p><p> </p>
-</article>
-<footer>
-<ol id="page-numbers">
-<li>7</li>
-<li>8</li>
-</ol>
-</footer>
-</section>
-</div>
-</div>
-<!-- end of bookey -->
-<footer class="mt-auto text-white-50">
-<p>All rights reserved © Chantal Lengua</p>
-</footer>
-</div>
-</body>
-</html>

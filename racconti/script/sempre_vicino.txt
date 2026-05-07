@@ -1,82 +1,4 @@
-<!doctype html>
-<html lang="en" class="h-100">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="Chantal Lengua">    
-    <title>Chantal Lengua</title>
-	<link rel="icon" href="../img/ico.png">
-	
-    <link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/cover/">
-	<link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">	
-	<link href="../cover.css" rel="stylesheet">
-	<link rel="stylesheet" href="../style.css">
-    <link rel="stylesheet" href="book.css">
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-
-    <style>
-	  
-	/* Highlight */
-	.open-book *::-moz-selection {
-		background: rgb(204, 201, 191, 0.4);
-	}
-
-	.open-book *::selection {
-		background: rgb(204, 201, 191, 0.4);
-	}
-    </style>
-
-	<script type="text/javascript">
-	 document.oncontextmenu = new Function("return false");
-	</script>
-	 
-	 <script type="text/javascript">
-	 $(document).ready(function() {
-	 $('body').bind('cut copy paste', function(event) {
-	 event.preventDefault();
-	 });
-	 });
-	 </script>
-	 
-  </head>
-
-  <body class="d-flex text-center text-white bg-dark">
-    
-<div class="d-flex w-100 h-100 p-3 mx-auto flex-column">
-
-  <header class="mb-auto px-5">
-    <div>
-      <!--<h3 class="float-md-start mb-0">Cover</h3>-->
-      <nav class="nav nav-masthead">
-        <a class="nav-link active" aria-current="page" href="../index.html">Racconti</a>
-        <a class="nav-link" href="../romanzi/romanzi.html">Romanzi</a>
-        <a class="nav-link float-end" href="../about.html">About</a>
-      </nav>
-    </div>
-  </header>
-
-
-<!--<p>&nbsp;</p>
-				</p>  				
-				<p>--> 
-				
-
-<!-- bookey bookey  -->  
-<div id="wrapper" class="mt-4">
-    <div id="container">
-        <section class="open-book">
-            <header>
-                <h1>Chantal Lengua</h1>
-                <h6> </h6>
-            </header>
-            <article>
-                <div class="chapter-title"><h2>Sempre vicino, <br>troppo lontano</h2>
-				<a href="pdf/ChantalLengua_SempreVicinoTroppoLontano.pdf" target="_blank" class="btn btn-outline-secondary btn-pdf">
-				<i class="bi bi-filetype-pdf"></i></a>
-				</div>
- 				<p>D’un tratto Giorgio si trovò smarrito, in quella corsia di supermercato, tra la farina 00 e lo zucchero di canna. Nella mano sinistra reggeva il manico di un cestino di plastica vuoto, nella destra la lista della spesa. Si guardò intorno e poiché doveva prendere mezzo chilo di petto di pollo, decise di chiedere consiglio a una signorina che, accanto a lui, stava valutando se fosse meglio acquistare zucchero bianco o dolcificante senza aspartame. Lei si voltò con uno sguardo da cerbiatto, di chi non si aspetta che uno sconosciuto le rivolga la parola, incorniciato da un bob medio di capelli lucidi e castani. Dietro alla sua figura una bambina, nove anni al massimo, stringeva un coniglio di peluche; non gli erano mai piaciuti i conigli, da quando avevano quasi staccato un dito a lui e a suo fratello.</p>
+<p>D’un tratto Giorgio si trovò smarrito, in quella corsia di supermercato, tra la farina 00 e lo zucchero di canna. Nella mano sinistra reggeva il manico di un cestino di plastica vuoto, nella destra la lista della spesa. Si guardò intorno e poiché doveva prendere mezzo chilo di petto di pollo, decise di chiedere consiglio a una signorina che, accanto a lui, stava valutando se fosse meglio acquistare zucchero bianco o dolcificante senza aspartame. Lei si voltò con uno sguardo da cerbiatto, di chi non si aspetta che uno sconosciuto le rivolga la parola, incorniciato da un bob medio di capelli lucidi e castani. Dietro alla sua figura una bambina, nove anni al massimo, stringeva un coniglio di peluche; non gli erano mai piaciuti i conigli, da quando avevano quasi staccato un dito a lui e a suo fratello.</p>
 <p>«Petto di pollo?» mormorò la donna. «Sì, venga con me.»</p>
 <p>«Grazie, non conosco bene questo supermercato.»</p>
 <p>«Non si preoccupi, io ci vengo spesso.»</p>
@@ -102,32 +24,6 @@
 <p>Non l’avrebbe mai detto, come se guardando una persona avesse potuto indovinare il suo curriculum.</p>
 <p>«Statistica e modelli probabilistici.»</p>
 <p>«Oh, io lo odiavo» rispose lei ridendo. «L’unico esame che ho dovuto ridare tre volte. Sono arrivata a sognarmi il professor Mossi di notte.»</p>
-				
-				
-				</article>
-            <footer>
-                <ol id="page-numbers">
-                    <li>1</li>
-                    <li>2</li>
-                </ol>
-            </footer>
-        </section>
-
-    </div>
-</div>
-<!-- end of bookey -->
-
-
-<!-- bookey bookey -->  
-<div id="wrapper" class="mt-4">
-    <div id="container">
-        <section class="open-book">
-            <header>
-                <h1> </h1>
-                <h6></h6>
-            </header>
-            <article>                
-                
 <p>«Dia la colpa al docente, mai alla materia» sorrise Giorgio. «Soprattutto in questo caso. Angelo Mossi non ha dato una A da quando insegno.»</p>
 <p>«Anche lei è così severo?»</p>
 <p>«Oh, io no. Boccio solo chi non studia.» </p>
@@ -152,40 +48,15 @@
 <p>Acconsentì a patto che venisse cucinato qualcosa proveniente dalla sua spesa e Malia dovette accettare, scontrandosi con la sua irremovibilità. Nel ringraziarlo, gli sfiorò la mano e lui provò la voglia irrefrenabile di abbracciarla.</p>
 <p>Il taccuino fu messo via soltanto quando fu chiamata Adele per la cena, consistente in petto di pollo grigliato con salsa barbecue, purè di patate e un contorno di carote, broccoli e peperoni saltati con un olio e rosmarino. La bambina mangiò del prosciutto cotto e del purè, lasciando tutte le verdure, e la madre provò a insistere senza risultato.</p>
 <p>«Parlaci della tua famiglia, Giorgio.»</p>
-
-				</article>
-            <footer>
-                <ol id="page-numbers">
-                    <li>3</li>
-                    <li>4</li>
-                </ol>
-            </footer>
-        </section>
-
-    </div>
-</div>
-<!-- end of bookey -->
-
-
-<!-- bookey bookey -->  
-<div id="wrapper" class="mt-4">
-    <div id="container">
-        <section class="open-book">
-            <header>
-                <h1> </h1>
-                <h6> </h6>
-            </header>
-            <article>
-                                    
 <p>«Preferisco i calcoli.» Il suo sarcasmo tradiva una vita solitaria, inframmezzata solo a qualche visita del fratello Paolo, che viveva a Bologna e lavorava come ingegnere chimico.</p>
 <p>«L’intelligenza è di famiglia, allora.»</p>
 <p>«Anche della tua, ne sono sicuro. Cosa facevano i tuoi genitori?»</p>
 <p>«Mia madre era architetto. Ma è mancata quando ero giovane.» </p>
 <p>«Mi dispiace. E suo padre?» </p>
-<p>«Oh, lui è un vero genio. È proprio qui, solo che a volte è come se non ci fosse.» Adele le spinse contro il proprio piatto.</p>
+<p>«Oh, lui è un vero genio. È proprio qui, solo che a volte è come se non ci fosse.» Un’ombra le scese sul viso, ma Adele la riportò rapidamente alla realtà.</p>
 <p>«Mamma posso andare a giocare alla Nintendo?»</p>
-<p>«Vai.»</p>
-<p>Nell'alzarsi, il piatto le cadde a terra e Giorgio si chinò per raccoglierne i pezzi.</p>
+<p>«Vai, ma prima sparecchia il tuo piatto.»</p>
+<p>Nel portarlo al lavandino, le cadde di mano e Giorgio si chinò ad aiutarla a pulire.</p>
 <p>«No, ti prego, faccio io.»</p>
 <p>«È il minimo che possa fare, dopo la cena e la conversazione.»</p>
 <p>«Figurati, mi fa piacere parlare con te» ammise lei.</p>
@@ -209,36 +80,7 @@
 
 <p>D’un tratto si sentì in trappola, come un claustrofobico in un ascensore. Andò verso la porta d’ingresso e provò a forzarla, ma era chiusa a chiave e non si poteva aprire neanche dall’interno. </p>
 <p>I suoi movimenti si fecero più frenetici, confusi. Oltre la cucina trovò la cameretta della bambina e una stanza dalla porta accostata. Credeva fosse quella di Malia e invece vide solo un letto vuoto, con un pigiama da uomo ben piegato. Le pareti erano occupate da libri e una scrivania troneggiava davanti a una vetrata che dava sulla notte scura. Forse avrebbe trovato un telefono. Le si avvicinò e spostò le carte scribacchiate in penna nera. Aprì un cassetto e rinvenne il suo taccuino, quello su cui aveva appuntato le formule per Malia.</p>
-				
-				</article>
-            <footer>
-                <ol id="page-numbers">
-                    <li>5</li>
-                    <li>6</li>
-                </ol>
-            </footer>
-        </section>
-
-    </div>
-</div>
-<!-- end of bookey -->
-
-
-
-<!-- bookey bookey -->  
-<div id="wrapper" class="mt-4">
-    <div id="container">
-        <section class="open-book">
-            <header>
-                <h1> </h1>
-                <h6> </h6>
-            </header>
-            <article>
-                                    
-				<p>
-«Che diamine…»
-				</p>  	
-
+<p>«Che diamine…»</p>
 <p>Sarebbe bastato chiedergli le pagine senza rubarglielo. Lo sfogliò rapidamente per sincerarsi che fosse il suo, ma non trovò più le formule che aveva scritto: c’erano soltanto numeri senza connessione, radici quadrate di parole ripetute, grafemi privi di senso, scarabocchi. Lo lasciò cadere sulla scrivania, confuso, e arretrò, guardandosi intorno. Da una mensola, persone impresse in fotografie incorniciate lo osservavano. Ne prese una, rivedendo se stesso. </p>
 <p>Molto più vecchio.</p>
 <p>Era un uomo anziano, che sorrideva, senza più capelli e con un maglione di lana a coste. Dietro, un lago che non aveva mai visto.</p>
@@ -260,32 +102,4 @@
 <p>Prese Giorgio saldamente per un braccio, girandoselo intorno alle spalle come se stesse conducendo un infermo. Forse era proprio così.</p>
 <p>«Io…»</p>
 <p>«Andiamo a berci una camomilla, papà. Ti piace la camomilla, ricordi?»</p>
-<p>«Io…» Ma era inutile lottare. Era successo di nuovo: per qualche ora era tornato giovane, era tornato sano. Ma ora erano tornati, il ricordo e la dimenticanza, il torpore e l’oblio, e quella sensazione, la sensazione opaca di quel che che sfugge mentre lo si sta nominando.</p>				
-				
-				</article>
-            <footer>
-                <ol id="page-numbers">
-                    <li>7</li>
-                    <li>8</li>
-                </ol>
-            </footer>
-        </section>
-
-    </div>
-</div>
-<!-- end of bookey -->
-
-
-
-
-
-  <footer class="mt-auto text-white-50">
-    <p>All rights reserved &copy; Chantal Lengua</p>
-  </footer>
-  
-</div>
-
-
-    
-  </body>
-</html>
+<p>«Io…» Ma era inutile lottare. Era successo di nuovo: per qualche ora era tornato giovane, era tornato sano. Ma ora erano tornati, il ricordo e la dimenticanza, il torpore e l’oblio, e quella sensazione, la sensazione opaca di quel che che sfugge mentre lo si sta nominando.</p>
