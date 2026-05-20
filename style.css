@@ -857,3 +857,7 @@ footer input[type="image"] {
 .covern10 {
   background-image: url('img/newsl/10.jpg');
 }
+
+#menuNav .nav-link {
+  padding: 0.5rem 0;
+}
