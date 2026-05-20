@@ -727,7 +727,7 @@ footer input[type="image"] {
 }
 
 .intro-content {
-  padding: 2em 2.6em;
+  padding: 1.1em 2.6em;
   color: #222;
 }
 
@@ -741,12 +741,12 @@ footer input[type="image"] {
 }
 
 .intro-content h2 {
-  margin-top: 0.4em;
+  margin-top: 0.3em;
+  margin-bottom: 0.6em;
   font-size: 0.95rem;
   font-weight: normal;
-  color: #666;
-  text-align: center;
-  	padding-bottom: 1rem !important;
+  color: black;
+  text-align: center;  	
 }
 
 /* Testo */
@@ -783,6 +783,39 @@ footer input[type="image"] {
   background-color: #4d5053;
   color: #f4f1e3;
 }
+
+
+/* per font pagina newsletter */
+.crimson-font {
+	font-family: 'Crimson Text', serif;
+	font-weight: 400;
+}
+
+.crimson-font * {
+	font-family: 'Crimson Text', serif;
+}
+
+.crimson-font h1 {
+	font-size: 2rem;
+	font-weight: 600;
+}
+
+.crimson-font h2 {
+	font-size: 1.3rem;
+	font-weight: 400;
+}
+
+.crimson-font p {
+	font-size: 1.05rem;
+	line-height: 1.4;
+}
+
+.crimson-font a {
+	font-size: 0.9rem;
+	line-height: 1.2;
+}
+
+
 
 /* =========================
    MOBILE

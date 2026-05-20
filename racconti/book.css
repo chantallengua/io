@@ -269,36 +269,6 @@ color: RGB(0, 96, 197);
 	font-style: italic;
 }
 
-/* per font pagina newsletter */
-.crimson-font {
-	font-family: 'Crimson Text', serif;
-	font-weight: 400;
-}
-
-.crimson-font * {
-	font-family: 'Crimson Text', serif;
-}
-
-.crimson-font h1 {
-	font-size: 2rem;
-	font-weight: 600;
-}
-
-.crimson-font h2 {
-	font-size: 1.1rem;
-	font-weight: 400;
-}
-
-.crimson-font p {
-	font-size: 1rem;
-	line-height: 1.4;
-}
-
-.crimson-font a {
-	font-size: 0.9rem;
-	line-height: 1.2;
-}
-
 
 @media only screen and ( max-width: 760px ) {
 p {
