@@ -35,16 +35,21 @@
   <body class="d-flex text-center text-white bg-dark">
     
 <div class="d-flex w-100 h-100 p-3 mx-auto flex-column">
-  <header class="mb-auto px-5">
+
+<header class="mb-auto px-5">
     <div>
       <!--<h3 class="float-md-start mb-0">Cover</h3>-->
-      <nav class="nav nav-masthead">
-        <a class="nav-link" href="../index.html">Racconti</a>
-        <a class="nav-link active" aria-current="page" href="#">Romanzi</a>
-		 <!--<a class="nav-link" href="../suggestions.html">Suggestions</a>-->
-        <a class="nav-link float-end" href="../newsletter.html">Newsletter</a>
-		<a class="nav-link float-end" href="../about.html">About</a>
-      </nav>
+     <nav class="nav nav-masthead d-flex flex-column flex-md-row w-100">
+		<button class="d-md-none border-0 bg-transparent text-white ms-auto mb-2" type="button" data-bs-toggle="collapse" data-bs-target="#menuNav" aria-controls="menuNav" aria-expanded="false" aria-label="Toggle navigation">
+			<i class="bi bi-list" style="font-size: 1.8rem;"></i>
+		</button>
+		<div class="collapse d-md-flex flex-md-row nav nav-masthead w-100 text-start" id="menuNav">
+			<a class="nav-link" href="../index.html">Racconti</a>
+			<a class="nav-link active" aria-current="page" href="../romanzi/romanzi.html">Romanzi</a>
+			<a class="nav-link" href="../newsletter.html">Newsletter</a>
+			<a class="nav-link" href="../about.html">About</a>
+		</div>
+	 </nav>
     </div>
   </header>
 
