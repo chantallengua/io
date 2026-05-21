@@ -3,6 +3,7 @@ table {
   max-width: 600px;
 }
 
+
 body > .d-flex > header + table {
   margin-top: 20px;
   width: 98% !important;
@@ -20,7 +21,9 @@ td {
   }
 
   body > .d-flex > header + table {
-    width: 95% !important;
+    width: 95% !important;	
+    border-radius: 6px !important;
+}
   }
 
   td {
@@ -55,7 +58,7 @@ td {
 
   body > .d-flex > header + table {
     width: 100% !important;
-    border-radius: 0 !important;
+    border-radius: 6px !important;
   }
 
   td {
@@ -75,6 +78,8 @@ td {
 
   td[style*="background-color:#de5f5a"] {
     padding: 20px 18px !important;
+	margin-left: 10px;
+	margin-right: 10px;
     font-size: 16px !important;
   }
 
