@@ -23,7 +23,6 @@ td {
   body > .d-flex > header + table {
     width: 95% !important;	
     border-radius: 6px !important;
-}
   }
 
   td {
@@ -38,6 +37,8 @@ td {
 
   td[style*="background-color:#de5f5a"] {
     padding: 18px 22px !important;
+	margin-left: 10px;
+	margin-right: 10px;
   }
 
   .bi-list {
