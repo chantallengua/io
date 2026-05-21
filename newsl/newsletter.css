@@ -1,6 +1,10 @@
 table {
   width: 100% !important;
-  max-width: 600px;
+  max-width: 600px; 
+}
+
+body > .d-flex > header + table {
+   margin-top: 20px;
 }
 
 td {
