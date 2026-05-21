@@ -1,23 +1,25 @@
 table {
   width: 100% !important;
-  max-width: 600px; 
+  max-width: 600px;
 }
 
 body > .d-flex > header + table {
-   margin-top: 20px;
+  margin-top: 20px;
+  width: 98% !important;
 }
 
 td {
   word-break: break-word;
 }
 
+/* TABLET */
 @media (max-width: 992px) {
 
   body {
     font-size: 17px;
   }
 
-  table[align="center"] {
+  body > .d-flex > header + table {
     width: 95% !important;
   }
 
@@ -44,13 +46,14 @@ td {
   }
 }
 
+/* MOBILE */
 @media (max-width: 576px) {
 
   body {
     font-size: 18px;
   }
 
-  table[align="center"] {
+  body > .d-flex > header + table {
     width: 100% !important;
     border-radius: 0 !important;
   }
