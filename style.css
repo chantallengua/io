@@ -598,6 +598,14 @@ footer input[type="image"] {
   background-image: url('img/finche.jpg');
 }
 
+.cover28 {
+  background-image: url('img/goldenveto.jpg');
+}
+
+.cover29 {
+  background-image: url('img/plh.jpg');
+}
+
 
 
 .cover0 {
@@ -890,6 +898,28 @@ footer input[type="image"] {
 .covern10 {
   background-image: url('img/newsl/10.jpg');
 }
+
+.covern11 {
+  background-image: url('img/newsl/11.jpg');
+}
+
+.covern12 {
+  background-image: url('img/newsl/12.jpg');
+}
+
+.covern13 {
+  background-image: url('img/newsl/13.jpg');
+}
+
+.covern14 {
+  background-image: url('img/newsl/14.jpg');
+}
+
+.covern15 {
+  background-image: url('img/newsl/15.jpg');
+}
+
+
 
 #menuNav .nav-link {
   padding: 0.5rem 0;
