@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<html class="h-100" lang="it">
+<html lang="it" class="min-vh-100">
 <head>
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1" name="viewport"/>
@@ -34,6 +34,19 @@
   ]
 }
 		</script>
+		
+		<style>
+		html, body {
+  height: auto;
+  min-height: 100vh;
+}
+
+body > div {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+		</style>
 <link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet"/>
 <link href="../cover.css" rel="stylesheet"/>
 <link href="../style.css" rel="stylesheet"/>
@@ -62,8 +75,8 @@
 	 });
 	 </script>
 </head>
-<body class="d-flex text-center text-white bg-dark">
-<div class="d-flex w-100 h-100 p-3 mx-auto flex-column">
+<body class="d-flex flex-column min-vh-100 text-center text-white bg-dark">
+<div class="d-flex w-100 p-3 mx-auto flex-column flex-grow-1">
 <h1 class="visually-hidden">Finché qualcuno guarda</h1>
 <header class="mb-auto px-5">
 <div>
