@@ -791,24 +791,6 @@ footer input[type="image"] {
   margin-top: 1.2em;
 }
 
-.intro-button {
-  display: block;
-  width: fit-content;
-  margin: 1.6em auto;
-  padding: 0.75em 1.8em;
-  background-color: #212529;
-  color: #fff;
-  text-decoration: none;
-  border-radius: 24px;
-  font-size: 0.85rem;
-  letter-spacing: 1px;
-  transition: background-color 0.3s ease;
-}
-
-.intro-button:hover {
-  background-color: #4d5053;
-  color: #f4f1e3;
-}
 
 
 /* per font pagina newsletter */
@@ -1022,4 +1004,137 @@ footer input[type="image"] {
 
 #menuNav .nav-link {
   padding: 0.5rem 0;
+}
+
+
+/*    ---------------------------------------       */
+/*    Libretti più piccoli in newsletter.html       */
+/*    ---------------------------------------       */
+
+.newsletter-books {
+    width: 100% !important;
+    display: flex !important;
+    flex-wrap: wrap !important;
+    justify-content: center;
+    align-items: flex-start;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.newsletter-books .book {
+    width: 181px !important;
+    height: 280px !important;
+    margin: 30px 15px !important;
+    flex: 0 0 181px;
+    box-sizing: border-box;
+}
+
+.newsletter-books .title {
+    top: -20px !important;
+}
+
+.newsletter-books .pag {
+    bottom: 0 !important;
+}
+
+#big-container {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+.intro-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    gap: 2em;
+}
+
+.intro-buttons .intro-button {
+    flex-shrink: 1;
+    margin: 1.6em 0;
+}
+
+.intro-button {
+    display: block;
+    width: fit-content;
+    margin: 1.6em auto;
+    padding: 0.75em 1.8em;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 24px;
+    font-size: 0.85rem;
+    letter-spacing: 1px;
+    transition: background-color 0.3s ease;
+    background-color: #212529;
+}
+
+.intro-button:hover {
+    background-color: #4d5053;
+    color: #f4f1e3;
+}
+
+.intro-button-red {
+    background-color: #DE5F5A !important;
+}
+
+.intro-button-red:hover {
+    background-color: #B83F4A !important;
+}
+
+@media (max-width: 500px) {
+    .intro-buttons {
+        gap: 8px;
+    }
+
+    .intro-buttons .intro-button {
+        padding-left: 12px;
+        padding-right: 12px;
+        font-size: 14px;
+    }
+}
+
+/*    ---------------------------------------       */
+/*          Tematiche in newsletter.html            */
+/*    ---------------------------------------       */
+
+.newsletter-themes-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: 'Roboto', Helvetica, Arial, sans-serif;
+  margin: 0 2em 2em 0;
+ 
+}
+
+.newsletter-themes-table .themes-header {
+  background-color: #de5f5a;
+  color: #fff;
+  padding: 10px;
+  font-weight: 700;
+}
+
+.newsletter-themes-table .themes-title {
+  width: 75%;
+  border-top-left-radius: 6px;
+}
+
+.newsletter-themes-table .themes-newsletter {
+  width: 25%;
+  text-align: center;
+  border-top-right-radius: 6px;
+}
+
+.newsletter-themes-table td:not(.themes-header) {
+  padding: 8px 10px;
+  background-color: #fbfaf7;
+  border-bottom: 1px solid #e0d8c8;
+}
+ 
+
+.newsletter-themes-table td:nth-child(2):not(.themes-header) {
+  text-align: center;
+}
+
+.newsletter-themes-table a {
+  color: #de5f5a;
 }
